@@ -33,7 +33,7 @@ const ExperienceCard = ({ title, subTitle, icon, description }: Props) => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Here's the Master's Completion Certificate.
+          Here&apos;s the Master&apos;s Completion Certificate.
         </a>
       </div>
     </div>
