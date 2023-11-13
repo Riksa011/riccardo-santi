@@ -26,7 +26,7 @@ const Banner = () => {
         {/* Resume ENG and ITA */}
         <div className="flex gap-2">
           <a
-            href="/CV Riccardo Santi blockchain developer ENG.pdf"
+            href="/CV Riccardo Santi A ENG.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -36,7 +36,7 @@ const Banner = () => {
           </a>
 
           <a
-            href="/CV Riccardo Santi blockchain developer ITA.pdf"
+            href="/CV Riccardo Santi A ITA.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
