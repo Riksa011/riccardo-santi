@@ -16,7 +16,7 @@ const Banner = () => {
       <div className="w-3/4 flex flex-col items-center md:items-start    gap-2">
         <h1 className="text-5xl font-bold text-white">Riccardo Santi</h1>
         <h3 className="text-xl md:text-2xl font-semibold bg-clip-text bg-gradient-to-r from-blue-300 via-red-300 to-indigo-300 tracking-wide">
-          Junior Blockchain Developer
+          Blockchain Developer
         </h3>
 
         {/* Resume ENG and ITA */}
