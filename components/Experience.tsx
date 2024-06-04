@@ -3,7 +3,6 @@ import { MdSchool } from "react-icons/md";
 import { SiGooglescholar } from "react-icons/si";
 import ExperienceCard from "./ExperienceCard";
 
-
 const Experience = () => {
   return (
     <div className="wrapper">
