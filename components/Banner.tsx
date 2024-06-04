@@ -19,12 +19,8 @@ const Banner = () => {
           Junior Blockchain Developer
         </h3>
 
-        
-
-
-
         {/* Resume ENG and ITA */}
-        <div className="flex gap-2">
+        {/* <div className="flex gap-2">
           <a
             href="/CV Riccardo Santi A ENG.pdf"
             target="_blank"
@@ -44,9 +40,7 @@ const Banner = () => {
               Resume ITA
             </button>
           </a>
-        </div>
-
-
+        </div> */}
       </div>
     </div>
   );

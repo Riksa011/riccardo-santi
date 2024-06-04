@@ -12,15 +12,15 @@ const Projects = () => {
       <Title text="Projects" icon={<FaProjectDiagram />} />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 place-items-center">
         <ProjectCard
-            img={secondchance.src}
-            title="SeconChance"
-            link="https://github.com/Riksa011/Start2Impact-Django-Redis-Project"
-          />
+          img={secondchance.src}
+          title="SeconChance"
+          link="https://github.com/Riksa011/Start2Impact-Django-Redis-Project"
+        />
         <ProjectCard
-            img={bitchange.src}
-            title="BitChange"
-            link="https://github.com/Riksa011/Start2Impact-MongoDB-Project"
-          />
+          img={bitchange.src}
+          title="BitChange"
+          link="https://github.com/Riksa011/Start2Impact-MongoDB-Project"
+        />
         <ProjectCard
           img={nfticket.src}
           title="NFTicket"
